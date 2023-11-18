@@ -1,0 +1,10 @@
+mlflow
+ipykernel
+torch
+tqdm
+pandas
+numpy
+matplotlib
+scikit-learn
+soundfile
+torchaudio
